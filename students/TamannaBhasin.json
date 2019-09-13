@@ -1,0 +1,15 @@
+{
+  "firstName": "Tamanna",
+  "lastName": "Bhasin",
+  "nickName": "None",
+  "privateName": false,
+  "picture": "images/TamannaBhasin.jpg",
+  "privatePicture": false,
+  "email": "tamanna.bhasin@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "TamannaBhasin",
+  "privateGithub": false,
+  "superpower" : "twisting my ankle, bad puns, doodling",
+  "academicinterests": "Colonial History, British literature, Ninteenth Century Art History"
+
+}
